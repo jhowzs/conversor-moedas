@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor de moedas </h1>
 
 <p align="center">
-<a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Conversor de moedas com taxa de câmbio em tempo real. <br/>
 </p>
 
 <p align="center">
@@ -27,13 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML, CSS e JS
 - Figma
 - [Apex Charts](https://apexcharts.com/)
-- [Flag Icons](https://github.com/lipis/flag-icons)
 
-## 📚 Um poudo do que vimos nesse desafio
+## 📚 Um pouco dos desafio desse projeto
 
-- `outline` x `border` CSS property
-- Custom `<select>`
-- Ícones com bandeiras `flag icons`
+- `outline` x `border` CSS property`
 - Gráfico de area `area chart`
 - Configuração do Apex Charts
 - `String()` e `.replace()`
@@ -48,5 +45,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
